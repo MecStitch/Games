@@ -6,7 +6,7 @@ const characters = [
     'Amy',
     'Cream',
     'Eggman',
-    'knuckle',
+    'Knuckle',
     'Rouge',
     'Shadow',
     'Silver',
