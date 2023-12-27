@@ -20,3 +20,11 @@
 
 [Mario Run](https://games-beryl.vercel.app/)
 
+# Projeto 2
+
+<div>
+<img width="500em" src="https://github.com/MecStitch/Games/blob/main/Imgs/memory.png">
+</div>
+
+[Jogo da Memória](https://games-koez.vercel.app/)
+
