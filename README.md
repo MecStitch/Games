@@ -14,5 +14,9 @@
 
 # Projeto 1
 
+<div>
+<img width="500em" src="https://github.com/MecStitch/Games/blob/main/Imgs/Captura%20de%20tela%202023-12-27%20131418.png">
+</div>
+
 [Mario Run](https://games-beryl.vercel.app/)
 
