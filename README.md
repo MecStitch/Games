@@ -1,4 +1,4 @@
-# <center>Aprendendo programação e se divertindo</center>
+<center>Aprendendo programação e se divertindo</center>
 
 
 #### <div align="center"> Nesse repositório o objetivo e evoluir os meus conhecimentos em programação usando temas de jogos. </div>
